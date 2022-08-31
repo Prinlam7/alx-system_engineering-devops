@@ -9,3 +9,4 @@ ls -lna is the script that Display current directory contents in a Long format, 
 .
 mkdir /tmp/my_first_directory is the script that creates a directory named my_first_directory in the /tmp/ directory.
 mv /tmp/betty /tmp/my_first_directory/ is the script that Move the file betty from /tmp/ to /tmp/my_first_directory.
+rm /tmp/my_first_directory/betty is the script that Delete The file betty in /tmp/my_first_directory.
