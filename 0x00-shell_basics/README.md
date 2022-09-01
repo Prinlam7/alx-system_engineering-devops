@@ -14,4 +14,4 @@ rm -r /tmp/my_first_directory is the script that Delete the directory my_first_d
 cd - is the script that changes the working directory to the previous one.
 ls -la . .. /boot is the script that  lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
 file /tmp/iamafile is the script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
-ln -s /bin/ls _ls_ is the script that Create a symbolic link to /bin/ls, named __ls__. 
+ln -s /bin/ls ls is the script that Create a symbolic link to /bin/ls, named __ls__. 
